@@ -6,7 +6,7 @@
 
 
 
-[Leecode Link](https://leetcode.com/)
+[Leecode Link](https://leetcode.com/)[target =_blank]
 ## Vector 
 vector 底層實現是一個連續記憶體空間，當容量不夠的時候就會重新申請空間，並把原本資料複製或搬移到新的空間。  
 
