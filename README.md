@@ -1,11 +1,16 @@
 # Leecode Solution
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Hpjhuang)  
+
+
+## Leecode Topic
 |Degree|Title|Time Complexity|Space Conplexity|
 |:-:|:-:|:-:|:-:|
 |Easy|Two Sum||
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Hpjhuang)  
+
 
 ## Vector 
 vector 底層實現是一個連續記憶體空間，當容量不夠的時候就會重新申請空間，並把原本資料複製或搬移到新的空間。  
